@@ -1,18 +1,18 @@
 <!--
  * @Author: Topskys
  * @Date: 2022-03-25 09:06:46
- * @LastEditTime: 2022-10-03 10:13:21
+ * @LastEditTime: 2022-10-03 10:30:14
 -->
 # netease-music
 ![Image text](https://github.com/Topskys/CloudMusic/blob/main/src/assets/img/W0KVI.png)
 
-![Image text](https://github.com/Topskys/CloudMusic/blob/main/src/assets/img/XTO32~%25F_O%24CO_FXL8.png)
+![Image text](https://github.com/Topskys/CloudMusic/blob/main/src/assets/img/8.png)
 
-![Image text](https://github.com/Topskys/CloudMusic/blob/main/src/assets/img/XLA~NN~ROHLXF.png)
+![Image text](https://github.com/Topskys/CloudMusic/blob/main/src/assets/img/LXF.png)
 
-![Image text](https://github.com/Topskys/CloudMusic/blob/main/src/assets/img/48%25RV%60RY0C0PS7F%60_2.png)
+![Image text](https://github.com/Topskys/CloudMusic/blob/main/src/assets/img/2.png)
 
-![Image text](https://github.com/Topskys/CloudMusic/blob/main/src/assets/img/MH%60UR0%5BW%5B3US410AEAISBOC.png)
+![Image text](https://github.com/Topskys/CloudMusic/blob/main/src/assets/img/BOC.png)
 
 
 ## Project setup
